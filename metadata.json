@@ -1,0 +1,6 @@
+{
+  "name": "FullStack Craft - Web Development Mastery Guide",
+  "description": "Comprehensive interactive guide covering HTML tags, modern CSS, JavaScript ES6+, React installation & fundamentals, and Node.js with Express backend development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
